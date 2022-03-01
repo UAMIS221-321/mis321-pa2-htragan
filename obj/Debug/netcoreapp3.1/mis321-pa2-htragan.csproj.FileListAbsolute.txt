@@ -1,0 +1,13 @@
+C:\source\MIS321\mis321-pa2-htragan\bin\Debug\netcoreapp3.1\mis321-pa2-htragan.exe
+C:\source\MIS321\mis321-pa2-htragan\bin\Debug\netcoreapp3.1\mis321-pa2-htragan.deps.json
+C:\source\MIS321\mis321-pa2-htragan\bin\Debug\netcoreapp3.1\mis321-pa2-htragan.runtimeconfig.json
+C:\source\MIS321\mis321-pa2-htragan\bin\Debug\netcoreapp3.1\mis321-pa2-htragan.runtimeconfig.dev.json
+C:\source\MIS321\mis321-pa2-htragan\bin\Debug\netcoreapp3.1\mis321-pa2-htragan.dll
+C:\source\MIS321\mis321-pa2-htragan\bin\Debug\netcoreapp3.1\mis321-pa2-htragan.pdb
+C:\source\MIS321\mis321-pa2-htragan\obj\Debug\netcoreapp3.1\mis321-pa2-htragan.csprojAssemblyReference.cache
+C:\source\MIS321\mis321-pa2-htragan\obj\Debug\netcoreapp3.1\mis321-pa2-htragan.AssemblyInfoInputs.cache
+C:\source\MIS321\mis321-pa2-htragan\obj\Debug\netcoreapp3.1\mis321-pa2-htragan.AssemblyInfo.cs
+C:\source\MIS321\mis321-pa2-htragan\obj\Debug\netcoreapp3.1\mis321-pa2-htragan.csproj.CoreCompileInputs.cache
+C:\source\MIS321\mis321-pa2-htragan\obj\Debug\netcoreapp3.1\mis321-pa2-htragan.dll
+C:\source\MIS321\mis321-pa2-htragan\obj\Debug\netcoreapp3.1\mis321-pa2-htragan.pdb
+C:\source\MIS321\mis321-pa2-htragan\obj\Debug\netcoreapp3.1\mis321-pa2-htragan.genruntimeconfig.cache
